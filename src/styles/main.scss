@@ -1,0 +1,10 @@
+// Get Bootstrap working
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "colors/colors.scss";
+
+// This is where your styles can go, import any other scss or css files here or write your own style directly below
+
+body,
+body * {
+  box-sizing: border-box;
+}
